@@ -1,4 +1,4 @@
-# -dravidkumar9336
+# dravidkumar9336
 ### Hi, I'm Dravid Kumar 👋
 
 🎓 M.Sc. Statistics and Computing student at Banaras Hindu University (BHU), Varanasi  
