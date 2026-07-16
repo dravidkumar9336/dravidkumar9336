@@ -40,7 +40,29 @@ End-to-end sales dashboard with dynamic filters and business KPIs for a retail d
 <img src="https://github-readme-stats.vercel.app/api?username=dravidkumar9336&show_icons=true&theme=default" width="450"/>
 
 ---
+---
 
+### 📜 Certifications
+
+- 🎓 Data Analytics with Python — NPTEL (Jan–Apr 2025)
+- 🎓 Data Science for Engineers — NPTEL (Jul–Sep 2025)
+- 🎓 Machine Learning using Python — Simplilearn (Jul–Sep 2025)
+- 🎓 Advanced Excel (Power Query, Power Pivot & DAX) — Udemy (Jul 2025)
+
+---
+
+### 🎓 Education
+
+- **M.Sc. Statistics and Computing** — Banaras Hindu University (BHU), Varanasi *(Expected 2026)*
+- **B.Sc. (Hons) Statistics** — Banaras Hindu University (BHU), Varanasi *(2024)*
+
+---
+
+### 💡 What I'm Working On
+
+- 🌫️ Forecasting Varanasi's Air Quality Index using ARIMA, SARIMA & Prophet on 8 years of daily data
+- 📊 Building end-to-end BI dashboards that turn raw sales data into decision-ready insights
+- 📚 Strengthening my statistics foundation for data-driven, evidence-based analysis
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dravid-kumar-08a8a9362)
